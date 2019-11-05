@@ -1,6 +1,6 @@
-## Welcome to Zyrouge Development
+## Welcome to [Zyrouge Development](https://dev.zyrouge.tech/)
 
-[Website](https://codes.zyrouge.tech/)
+## [Visit our Wiki for Codes and Tutorials](https://github.com/zyrouge/zyrouge-development/wiki)
 
 ### What is this for?
 
